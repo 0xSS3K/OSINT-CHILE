@@ -42,7 +42,17 @@ site:instagram.com "NOMBRE APELLIDO" Chile
 
 Para rastrear menciones en medios, documentos históricos y árboles genealógicos.
 
-site:www.elmercurio.com "nombre apellido"site:www.latercera.com "nombre apellido"site:www.biobiochile.cl "nombre apellido"site:ciperchile.cl "nombre apellido"site:bibliotecanacionaldigital.gob.cl "nombre apellido"site:memoriachilena.gob.cl "nombre apellido"site:archivonacional.gob.cl "nombre apellido"site:documentos.archivonacional.cl "nombre apellido"site:familysearch.org "nombre apellido" Chilesite:genealog.cl "nombre apellido"
+site:www.elmercurio.com "nombre apellido"
+site:www.latercera.com "nombre apellido"
+site:www.biobiochile.cl "nombre apellido"
+site:ciperchile.cl "nombre apellido"
+site:bibliotecanacionaldigital.gob.cl "nombre apellido"
+site:memoriachilena.gob.cl "nombre apellido"
+site:archivonacional.gob.cl "nombre apellido"
+site:documentos.archivonacional.cl "nombre apellido"
+site:familysearch.org "nombre apellido" Chile
+site:genealog.cl "nombre apellido"
+
 ### 🏥 Salud y Educación (Gobierno)
 
 Documentos oficiales relacionados con personas en los ministerios.
