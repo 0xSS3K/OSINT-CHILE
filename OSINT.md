@@ -25,29 +25,29 @@ Cambia `SITIO_WEB_AQUI` por el dominio que te interese (ej: `gob.cl`). En mi exp
 `(site:uchile.cl OR site:uc.cl OR site:usach.cl OR site:uv.cl OR site:udec.cl OR site:uach.cl OR site:usm.cl OR site:ucn.cl OR site:ucsc.cl OR site:uct.cl OR site:ucm.cl OR site:utalca.cl OR site:ubiobio.cl OR site:ufro.cl OR site:ulagos.cl OR site:umag.cl OR site:uda.cl OR site:userena.cl OR site:upla.cl OR site:umce.cl OR site:utem.cl OR site:unap.cl OR site:uoh.cl OR site:uaysen.cl OR site:uantof.cl) "nombre apellido"`
 
 #### Universidades Privadas Importantes
-(site:uai.cl OR site:udd.cl OR site:uandes.cl OR site:udp.cl OR site:uahurtado.cl OR site:umayor.cl OR site:unab.cl OR site:uss.cl OR site:uft.cl OR site:ucentral.cl OR site:autonoma.cl OR site:ubo.cl OR site:udla.cl OR site:ust.cl OR site:uamericas.cl) "nombre apellido"
+`(site:uai.cl OR site:udd.cl OR site:uandes.cl OR site:udp.cl OR site:uahurtado.cl OR site:umayor.cl OR site:unab.cl OR site:uss.cl OR site:uft.cl OR site:ucentral.cl OR site:autonoma.cl OR site:ubo.cl OR site:udla.cl OR site:ust.cl OR site:uamericas.cl) "nombre apellido"`
 
 #### Otras Universidades e Instituciones
-(site:academia.cl OR site:usek.cl OR site:unicit.cl OR site:uvirtual.cl OR site:upv.cl OR site:umc.cl OR site:uniacc.cl OR site:ulare.cl OR site:ucab.cl OR site:ucsh.cl OR site:gabrielamistral.cl OR site:ubartolome.cl OR site:ipg.cl OR site:adventista.cl OR site:ubolivariana.cl OR site:uisek.cl OR site:ularepublica.cl OR site:uvina.cl OR site:udesarrollo.cl OR site:ufinisterrae.cl OR site:umartin.cl) "nombre apellido"
+`(site:academia.cl OR site:usek.cl OR site:unicit.cl OR site:uvirtual.cl OR site:upv.cl OR site:umc.cl OR site:uniacc.cl OR site:ulare.cl OR site:ucab.cl OR site:ucsh.cl OR site:gabrielamistral.cl OR site:ubartolome.cl OR site:ipg.cl OR site:adventista.cl OR site:ubolivariana.cl OR site:uisek.cl OR site:ularepublica.cl OR site:uvina.cl OR site:udesarrollo.cl OR site:ufinisterrae.cl OR site:umartin.cl) "nombre apellido"`
 
 ### 📚 Repositorios Universitarios (Tesis y Documentos)
 
-Ideal para encontrar investigaciones, tesis y documentos académicos.
+Ideal para encontrar investigaciones, tesis y documentos académicos. Solo remplaza "nombre apellido".
 
 #### Universidades Estatales, CRUCH Tradicionales y Regionales Principales
-(site:repositorio.uchile.cl OR site:cybertesis.uchile.cl OR site:bdigital.uchile.cl OR site:repositorio.uc.cl OR site:repositorio.usach.cl OR site:repositorio.udec.cl OR site:repositorio.uv.cl OR site:cybertesis.uach.cl OR site:repositorio.uach.cl OR site:repositorio.usm.cl OR site:repositorio.ucn.cl OR site:repositorio.ucsc.cl OR site:repositorio.uct.cl OR site:repositorio.ucm.cl OR site:repositorio.utalca.cl OR site:repositorio.ubiobio.cl OR site:repositorio.ufro.cl OR site:repositorio.ulagos.cl OR site:repositorio.umag.cl OR site:repositorio.uda.cl OR site:repositorio.userena.cl OR site:repositorio.upla.cl OR site:repositorio.umce.cl OR site:repositorio.utem.cl OR site:repositorio.uantof.cl OR site:repositorio.uoh.cl OR site:repositorio.uaysen.cl) "nombre apellido" filetype:pdf
+`(site:repositorio.uchile.cl OR site:cybertesis.uchile.cl OR site:bdigital.uchile.cl OR site:repositorio.uc.cl OR site:repositorio.usach.cl OR site:repositorio.udec.cl OR site:repositorio.uv.cl OR site:cybertesis.uach.cl OR site:repositorio.uach.cl OR site:repositorio.usm.cl OR site:repositorio.ucn.cl OR site:repositorio.ucsc.cl OR site:repositorio.uct.cl OR site:repositorio.ucm.cl OR site:repositorio.utalca.cl OR site:repositorio.ubiobio.cl OR site:repositorio.ufro.cl OR site:repositorio.ulagos.cl OR site:repositorio.umag.cl OR site:repositorio.uda.cl OR site:repositorio.userena.cl OR site:repositorio.upla.cl OR site:repositorio.umce.cl OR site:repositorio.utem.cl OR site:repositorio.uantof.cl OR site:repositorio.uoh.cl OR site:repositorio.uaysen.cl) "nombre apellido" filetype:pdf`
 
 #### Universidades Privadas y Otras Instituciones
-(site:repositorio.uai.cl OR site:repositorio.udd.cl OR site:repositorio.uandes.cl OR site:repositorio.udp.cl OR site:repositorio.uahurtado.cl OR site:repositorio.umayor.cl OR site:repositorio.unab.cl OR site:repositorio.uss.cl OR site:repositorio.uft.cl OR site:repositorio.ucentral.cl OR site:repositorio.autonoma.cl OR site:bibliotecadigital.ubo.cl OR site:repositorio.academia.cl OR site:repositorio.umc.cl OR site:repositorio.ucsh.cl) "nombre apellido" filetype:pdf
+`(site:repositorio.uai.cl OR site:repositorio.udd.cl OR site:repositorio.uandes.cl OR site:repositorio.udp.cl OR site:repositorio.uahurtado.cl OR site:repositorio.umayor.cl OR site:repositorio.unab.cl OR site:repositorio.uss.cl OR site:repositorio.uft.cl OR site:repositorio.ucentral.cl OR site:repositorio.autonoma.cl OR site:bibliotecadigital.ubo.cl OR site:repositorio.academia.cl OR site:repositorio.umc.cl OR site:repositorio.ucsh.cl) "nombre apellido" filetype:pdf`
 
 ### 🏢 Empresas y Negocios
 
 #### Diario Oficial
 Busca constituciones de empresas, modificaciones, etc.
 
-site:diariooficial.interior.gob.cl "NOMBRE EMPRESA" OR "NOMBRE REPRESENTANTE" OR "RUT EMPRESA"* **Nota:** 
+`site:diariooficial.interior.gob.cl "NOMBRE EMPRESA" OR "NOMBRE REPRESENTANTE" OR "RUT EMPRESA"`
+**Nota:** Adapta el término de búsqueda según lo que necesites.
 
-Adapta el término de búsqueda según lo que necesites.
 
 ### 📸 Redes Sociales
 
