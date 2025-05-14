@@ -2,7 +2,9 @@
 
 https://pastebin.com/rG93B3yM
 
-¡Buenas! Esta es una pequeña recopilación de recursos y dorks para quienes se inician o quieren tener a mano algunos trucos de OSINT enfocados en Chile. No es una biblia, pero seguro te da un buen punto de partida.
+
+
+¡Buenas! Esta es una pequeña recopilación de recursos y dorks para quienes se inician o quieren tener a mano algunos trucos de OSINT enfocados en Chile. No es una biblia, pero seguro te da un buen punto de partida. Igual, debo decir que hacer OSINT no es andar copiando y pegando dorks, links y comandos en un CLI o navegador. El fin de todo esto es lograr unir los puntos y adaptarte a lo que vas recopilando. Acá mostraré una serie de lugares a los que deberías mirar, o como mínimo saber de su existencia (en mi opinión). Y, como se menciona anteriormente, esto es una guía enfocada al OSINT en CHILE, haciendo uso de herramientas CHILENAS.
 
 ## 🎯 Usando los dorks de Google
 
