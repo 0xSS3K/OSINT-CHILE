@@ -20,6 +20,8 @@ Cambia `SITIO_WEB_AQUI` por el dominio que te interese (ej: `gob.cl`). En mi exp
 ### 🎓 Universidades
 
 #### Universidades Tradicionales del CRUCH
+(_Las universidades CRUCH son las 30 instituciones de educación superior más reconocidas en Chile, tanto públicas como privadas, que forman parte del Consejo de Rectoras y Rectores de las Universidades Chilenas_)
+
 `(site:uchile.cl OR site:uc.cl OR site:usach.cl OR site:uv.cl OR site:udec.cl OR site:uach.cl OR site:usm.cl OR site:ucn.cl OR site:ucsc.cl OR site:uct.cl OR site:ucm.cl OR site:utalca.cl OR site:ubiobio.cl OR site:ufro.cl OR site:ulagos.cl OR site:umag.cl OR site:uda.cl OR site:userena.cl OR site:upla.cl OR site:umce.cl OR site:utem.cl OR site:unap.cl OR site:uoh.cl OR site:uaysen.cl OR site:uantof.cl) "nombre apellido"`
 
 #### Universidades Privadas Importantes
