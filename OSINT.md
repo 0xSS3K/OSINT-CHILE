@@ -51,22 +51,26 @@ Busca constituciones de empresas, modificaciones, etc.
 
 ### 📸 Redes Sociales
 
+_La verdad es que hay demasiado contenido en internet sobre OSINT a RRSS, por lo que me remetiré a dejarte este único dork que me parece valioso y el cual puedes modificar para cualquier RS :P_
+
 #### Instagram
-site:instagram.com "NOMBRE APELLIDO" Chile
+El típico "aaaaah" dork para Instagram.
+`site:instagram.com "NOMBRE APELLIDO" Chile`
+
 ### 👣 Huellas Digitales (Noticias, Archivos, Genealogía)
 
-Para rastrear menciones en medios, documentos históricos y árboles genealógicos.
+Para rastrear menciones en medios, documentos históricos y árboles genealógicos. Dale una oportunidad. Yo mismo he encontrado cosas sobre mí usando estos dorks que no pensé que estuvieran por ahí...
 
-site:www.elmercurio.com "nombre apellido"
-site:www.latercera.com "nombre apellido"
-site:www.biobiochile.cl "nombre apellido"
-site:ciperchile.cl "nombre apellido"
-site:bibliotecanacionaldigital.gob.cl "nombre apellido"
-site:memoriachilena.gob.cl "nombre apellido"
-site:archivonacional.gob.cl "nombre apellido"
-site:documentos.archivonacional.cl "nombre apellido"
-site:familysearch.org "nombre apellido" Chile
-site:genealog.cl "nombre apellido"
+`site:www.elmercurio.com "nombre apellido"`
+`site:www.latercera.com "nombre apellido"`
+`site:www.biobiochile.cl "nombre apellido"`
+`site:ciperchile.cl "nombre apellido"`
+`site:bibliotecanacionaldigital.gob.cl "nombre apellido"`
+`site:memoriachilena.gob.cl "nombre apellido"`
+`site:archivonacional.gob.cl "nombre apellido"`
+`site:documentos.archivonacional.cl "nombre apellido"`
+`site:familysearch.org "nombre apellido" Chile`
+`site:genealog.cl "nombre apellido"`
 
 ### 🏥 Salud y Educación (Gobierno)
 
@@ -75,19 +79,21 @@ Documentos oficiales relacionados con personas en los ministerios.
 ### 💼 LinkedIn
 
 Perfiles profesionales.
-site:linkedin.com/in OR site:linkedin.com/pub "NOMBRE APELLIDO" "Chile"
-### 🛡️ Fuerzas Armadas
+`site:linkedin.com/in OR site:linkedin.com/pub "NOMBRE APELLIDO" "Chile"`
 
-Búsqueda en sitios `.mil.cl`.
-site:.mil.cl "NOMBRE APELLIDO"
+### 🛡️ Fuerzas Armadas
+_Este dork es simplemente oro ^^. Aquí metes a la Escuela de Grumetes, la Fuerza Aérea de Chile, al Estado Mayor Conjunto... En fin, úsalo._
+`site:*.mil.cl "NOMBRE APELLIDO"`
+
 ### 🤫 Información Sensible (¡Con Cuidado!)
 
-Estos dorks `intext:` buscan texto específico dentro de las páginas. Úsalos con responsabilidad.
+Estos dorks `intext:` buscan texto específico dentro de las páginas. Úsalos con responsabilidad (No👿)
 
-intext:"Rut: EL_RUT_AQUI"intext:"EL_NOMBRE_AQUI"intext:"Contraseña" "NOMBRE APELLIDO" OR "CORREO_ELECTRONICO"intext:"NUMERO_DE_TELEFONO"
+`intext:"Rut: EL_RUT_AQUI"intext:"EL_NOMBRE_AQUI"intext:"Contraseña" "NOMBRE APELLIDO" OR "CORREO_ELECTRONICO"intext:"NUMERO_DE_TELEFONO"`
+
 ## 🌐 Sitios Web Útiles
 
-Aquí una lista de páginas que te pueden servir un montón:
+Aquí una lista de páginas que te pueden servir un montón :) (sobre todo las primeras)
 
 * **Registro Civil (`registrocivil.cl`)**: Verificación de identidad, estado vital, lazos familiares, historial legal básico.
 
