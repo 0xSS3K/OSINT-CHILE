@@ -10,16 +10,17 @@ Los dorks son búsquedas avanzadas en Google. Aquí te dejo algunos listos para 
 
 ### 📄 Dork Genérico para Archivos
 
-Si no sabes por dónde empezar, este dork busca una variedad de tipos de archivo en un sitio específico relacionados con un nombre.
+Si no sabes por dónde empezar, este one-liner dork busca una variedad de tipos de archivo en un sitio específico relacionados con un nombre.
 
-`site:SITIO_WEB_AQUI "NOMBRE APELLIDO" filetype:pdf OR filetype:xml OR filetype:txt OR filetype:doc OR filetype:docx OR filetype:xlsx OR filetype:odt OR filetype:rtf OR filetype:html OR filetype:htm OR filetype:csv OR filetype:ods OR filetype:mdb OR filetype:accdb OR filetype:sql OR filetype:jpg OR filetype:png OR filetype:jpeg OR filetype:gif OR filetype:mp4 OR filetype:avi OR filetype:mov OR filetype:mp3 OR filetype:wav OR filetype:eml OR filetype:json OR filetype:ini OR filetype:conf OR filetype:log OR filetype:backup OR filetype:zip OR filetype:rar OR filetype:7z*` **Consejo:** 
+`site:SITIO_WEB_AQUI "NOMBRE APELLIDO" filetype:pdf OR filetype:xml OR filetype:txt OR filetype:doc OR filetype:docx OR filetype:xlsx OR filetype:odt OR filetype:rtf OR filetype:html OR filetype:htm OR filetype:csv OR filetype:ods OR filetype:mdb OR filetype:accdb OR filetype:sql OR filetype:jpg OR filetype:png OR filetype:jpeg OR filetype:gif OR filetype:mp4 OR filetype:avi OR filetype:mov OR filetype:mp3 OR filetype:wav OR filetype:eml OR filetype:json OR filetype:ini OR filetype:conf OR filetype:log OR filetype:backup OR filetype:zip OR filetype:rar OR filetype:7z` 
 
-Cambia `SITIO_WEB_AQUI` por el dominio que te interese (ej: `gob.cl`).
+**Consejo:** 
+Cambia `SITIO_WEB_AQUI` por el dominio que te interese (ej: `gob.cl`). En mi experiencia, este tipo de dorks son geniales para encontrar información de estudiantes :)
 
 ### 🎓 Universidades
 
 #### Universidades Tradicionales del CRUCH
-(site:uchile.cl OR site:uc.cl OR site:usach.cl OR site:uv.cl OR site:udec.cl OR site:uach.cl OR site:usm.cl OR site:ucn.cl OR site:ucsc.cl OR site:uct.cl OR site:ucm.cl OR site:utalca.cl OR site:ubiobio.cl OR site:ufro.cl OR site:ulagos.cl OR site:umag.cl OR site:uda.cl OR site:userena.cl OR site:upla.cl OR site:umce.cl OR site:utem.cl OR site:unap.cl OR site:uoh.cl OR site:uaysen.cl OR site:uantof.cl) "nombre apellido"
+`(site:uchile.cl OR site:uc.cl OR site:usach.cl OR site:uv.cl OR site:udec.cl OR site:uach.cl OR site:usm.cl OR site:ucn.cl OR site:ucsc.cl OR site:uct.cl OR site:ucm.cl OR site:utalca.cl OR site:ubiobio.cl OR site:ufro.cl OR site:ulagos.cl OR site:umag.cl OR site:uda.cl OR site:userena.cl OR site:upla.cl OR site:umce.cl OR site:utem.cl OR site:unap.cl OR site:uoh.cl OR site:uaysen.cl OR site:uantof.cl) "nombre apellido"`
 
 #### Universidades Privadas Importantes
 (site:uai.cl OR site:udd.cl OR site:uandes.cl OR site:udp.cl OR site:uahurtado.cl OR site:umayor.cl OR site:unab.cl OR site:uss.cl OR site:uft.cl OR site:ucentral.cl OR site:autonoma.cl OR site:ubo.cl OR site:udla.cl OR site:ust.cl OR site:uamericas.cl) "nombre apellido"
