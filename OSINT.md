@@ -4,7 +4,7 @@ https://pastebin.com/rG93B3yM
 
 ¡Buenas! Esta es una pequeña recopilación de recursos y dorks para quienes se inician o quieren tener a mano algunos trucos de OSINT enfocados en Chile. No es una biblia, pero seguro te da un buen punto de partida.
 
-## 🎯 Dorks de Google: A Buscar se Ha Dicho
+## 🎯 Usando los dorks de Google
 
 Los dorks son búsquedas avanzadas en Google. Aquí te dejo algunos listos para usar (o casi). Recuerda reemplazar los placeholders como `"nombre apellido"` o `<palabra_clave>`.
 
@@ -12,7 +12,7 @@ Los dorks son búsquedas avanzadas en Google. Aquí te dejo algunos listos para 
 
 Si no sabes por dónde empezar, este dork busca una variedad de tipos de archivo en un sitio específico relacionados con un nombre.
 
-site:SITIO_WEB_AQUI "NOMBRE APELLIDO" filetype:pdf OR filetype:xml OR filetype:txt OR filetype:doc OR filetype:docx OR filetype:xlsx OR filetype:odt OR filetype:rtf OR filetype:html OR filetype:htm OR filetype:csv OR filetype:ods OR filetype:mdb OR filetype:accdb OR filetype:sql OR filetype:jpg OR filetype:png OR filetype:jpeg OR filetype:gif OR filetype:mp4 OR filetype:avi OR filetype:mov OR filetype:mp3 OR filetype:wav OR filetype:eml OR filetype:json OR filetype:ini OR filetype:conf OR filetype:log OR filetype:backup OR filetype:zip OR filetype:rar OR filetype:7z* **Consejo:** 
+`site:SITIO_WEB_AQUI "NOMBRE APELLIDO" filetype:pdf OR filetype:xml OR filetype:txt OR filetype:doc OR filetype:docx OR filetype:xlsx OR filetype:odt OR filetype:rtf OR filetype:html OR filetype:htm OR filetype:csv OR filetype:ods OR filetype:mdb OR filetype:accdb OR filetype:sql OR filetype:jpg OR filetype:png OR filetype:jpeg OR filetype:gif OR filetype:mp4 OR filetype:avi OR filetype:mov OR filetype:mp3 OR filetype:wav OR filetype:eml OR filetype:json OR filetype:ini OR filetype:conf OR filetype:log OR filetype:backup OR filetype:zip OR filetype:rar OR filetype:7z*` **Consejo:** 
 
 Cambia `SITIO_WEB_AQUI` por el dominio que te interese (ej: `gob.cl`).
 
