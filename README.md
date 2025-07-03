@@ -87,7 +87,7 @@ Perfiles profesionales.
 _Este dork es simplemente oro ^^. Aquí metes a la Escuela de Grumetes, la Fuerza Aérea de Chile, al Estado Mayor Conjunto... En fin, úsalo._
 `site:*.mil.cl "NOMBRE APELLIDO"`
 
-### 🤫 Información Sensible (¡Con Cuidado!)
+### 🤫 Información Sensible
 
 Estos dorks `intext:` buscan texto específico dentro de las páginas. Úsalos con responsabilidad (No👿)
 
