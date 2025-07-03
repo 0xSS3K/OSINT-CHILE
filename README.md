@@ -93,6 +93,15 @@ Estos dorks `intext:` buscan texto específico dentro de las páginas. Úsalos c
 
 `intext:"Rut: EL_RUT_AQUI"intext:"EL_NOMBRE_AQUI"intext:"Contraseña" "NOMBRE APELLIDO" OR "CORREO_ELECTRONICO"intext:"NUMERO_DE_TELEFONO"`
 
+### 🚘 Información vehicular
+
+* **Auto Seguro `https://www.autoseguro.gob.cl/`**: Para consultar si un vehículo tiene encargo por robo 
+* **Registro Nacional de Transporte Público `https://apps.mtt.cl/consultaweb/`**: Para verificar la inscripción de vehículos de transporte público, escolar o de carga
+* **Consulta Infracciones por Cámaras `http://rrvv.fiscalizacion.cl/`**: Para revisar si un vehículo tiene infracciones captadas por el sistema de cámaras de fiscalización.
+* **ChileAtiende `https://www.chileatiende.gob.cl/fichas/3412-certificados-asociados-a-vehiculos-motorizados-y-hoja-de-vida-del-conductor`**: Portal que centraliza la información sobre cómo obtener certificados y realizar trámites vehiculares *(aunque la obtención de los documentos oficiales usualmente tiene un costo)*.
+* ☢️ **Volante o Maleta `https://www.volanteomaleta.com/`**: Permite obtener datos básicos del vehículo como marca, modelo, año, número de motor, y el nombre y RUT del propietario actual. ☢️
+* **Autofact `https://www.autofact.cl/consultar-patente-auto`**: Ofrece un informe básico y limitado con algunos datos del vehículo.
+
 ## 🌐 Sitios Web Útiles
 
 Aquí una lista de páginas que te pueden servir un montón :) (sobre todo las primeras)
