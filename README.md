@@ -130,6 +130,10 @@ Aquí una lista de páginas que te pueden servir un montón :) (sobre todo las p
   
 * **Investigadores ANID (`investigadores.anid.cl/es/public_search/results`)**: Búsqueda de expertos por disciplina, trayectoria y redes.
 
+### 🚘 BancoEstado APP
+
+Otra forma interesante de encontrar información es, teniendo el número de teléfono de la persona a investigar, podemos agregarlo a nuestros contactos, dirigirnos a la app de BancoEstado, e intentar realizar una transferencia. Desde allí, podemos ver el nombre completo de la persona asociado a ese número de número.
+
 ---
 
 Si tienes dudas o aportes, ¡contáctame! Puedes encontrarme en IG: `_ss3k_`
