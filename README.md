@@ -134,6 +134,10 @@ Aquí una lista de páginas que te pueden servir un montón :) (sobre todo las p
 
 Otra forma interesante de encontrar información es, teniendo el número de teléfono de la persona a investigar, podemos agregarlo a nuestros contactos, dirigirnos a la app de BancoEstado, e intentar realizar una transferencia. Desde allí, podemos ver el nombre completo de la persona asociado a ese número de número.
 
+### ❓ Rutuficadores!
+
+Existen una serie de sitios web chilenos que se encuentran bajo el nombre de "Rutificadores". Si haces una búsqueda rápida en Google con palabras como "Rutificador online" o "Rutify", encontrarás variadas opciones. La forma en la que operan estos sitios -generalmente- es la de recopilar datos de fuentes públicas y mostrarlas de forma centralizada. Una de las más conocidas es "https://www.nombrerutyfirma.com/". Otra bastante buena es "https://www.rutificador.live/" (el estado de esta última ha variado en los últimos meses pasando de "activa" a "cerrada" en varias ocasiones).
+
 ---
 
 Si tienes dudas o aportes, ¡contáctame! Puedes encontrarme en IG: `_ss3k_`
